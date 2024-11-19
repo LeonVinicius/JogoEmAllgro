@@ -1,0 +1,7 @@
+﻿  JogoEmAllegro.c
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(643,32): warning C4047: '=': 'int' difere em níveis de indireção de 'ALLEGRO_BITMAP *'
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(689,32): warning C4047: '=': 'int' difere em níveis de indireção de 'ALLEGRO_BITMAP *'
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(717,32): warning C4047: '=': 'int' difere em níveis de indireção de 'ALLEGRO_BITMAP *'
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(381,1): warning C4715: 'Bomberman': nem todos os caminhos de controle retornam um valor
+C:\Users\Leon\source\repos\JogoEmAllegro\JogoEmAllegro\JogoEmAllegro.c(272,1): warning C4717: 'jogo_dinossauro': recursivo em todos os caminhos de controle, função causará estouro na pilha em tempo de execução
+  JogoEmAllegro.vcxproj -> C:\Users\Leon\source\repos\JogoEmAllegro\x64\Debug\JogoEmAllegro.exe
